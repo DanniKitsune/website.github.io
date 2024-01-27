@@ -23,14 +23,6 @@ h4 > a {
   padding: 4px;
   margin: 1px;
 }
-.nav {
-  border: 1px solid black;
-  background-color: #80ffff;
-  color: #ff80ff;
-  border-radius: 5px;
-  padding: 4px;
-  margin: 1px;
-}
 .desc {
   border: 4px solid #ff80ff;
   background-color: #80ffff;
@@ -69,6 +61,6 @@ p {
 }
 .rainbow-text {
   background-image: linear-gradient(to left, #ff80ff, indigo, #80ffff, indigo, #ff80ff);
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
