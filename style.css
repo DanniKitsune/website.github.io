@@ -23,6 +23,14 @@ h4 > a {
   padding: 4px;
   margin: 1px;
 }
+.nav {
+  border: 1px solid black;
+  background-color: #80ffff;
+  color: #ff80ff;
+  border-radius: 5px;
+  padding: 4px;
+  margin: 1px;
+}
 .desc {
   border: 4px solid #ff80ff;
   background-color: #80ffff;
