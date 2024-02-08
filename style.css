@@ -12,6 +12,12 @@ html {
 .imagesswitch {
   max-width: 15%;
 }
+.gbc {
+  max-width: 25%;
+}
+.dslite {
+  max-width: 20%;
+}
 a {
   text-decoration: none;
 }
